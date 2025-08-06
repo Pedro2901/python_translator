@@ -1,0 +1,8 @@
+{
+    "source_language": "es",
+    "target_language": "en",
+    "ocr_engine": "tesseract",
+    "translation_engine": "google",
+    "preserve_format": true,
+    "use_medical_dictionary": true
+}
