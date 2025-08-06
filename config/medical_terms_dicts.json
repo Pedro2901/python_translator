@@ -1,0 +1,21 @@
+{
+    "análisis": "analysis",
+    "diagnóstico": "diagnosis",
+    "tratamiento": "treatment",
+    "síntoma": "symptom",
+    "presión arterial": "blood pressure",
+    "frecuencia cardíaca": "heart rate",
+    "temperatura corporal": "body temperature",
+    "examen físico": "physical examination",
+    "historia clínica": "medical history",
+    "radiografía": "X-ray",
+    "resonancia magnética": "MRI",
+    "tomografía": "CT scan",
+    "anestesia": "anesthesia",
+    "cirugía": "surgery",
+    "medicamento": "medication",
+    "dosis": "dosage",
+    "efecto secundario": "side effect",
+    "alergia": "allergy",
+    "infección": "infection"
+}
