@@ -1,0 +1,7 @@
+pdf2image
+pytesseract
+Pillow
+PyMuPDF
+googletrans==4.0.0-rc1
+reportlab
+pandas
